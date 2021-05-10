@@ -1,0 +1,2 @@
+include ':app',':openCVLibrary2.4.13.1'
+rootProject.name='Digit Recognition mk1'

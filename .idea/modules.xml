@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Digit_Recognition_mk1.iml" filepath="$PROJECT_DIR$/.idea/modules/Digit_Recognition_mk1.iml" group="Digit_Recognition_mk1" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Digit Recognition mk1/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/openCVLibrary2.4.13.1/openCVLibrary2.4.13.1.iml" filepath="$PROJECT_DIR$/.idea/modules/openCVLibrary2.4.13.1/openCVLibrary2.4.13.1.iml" group="Digit Recognition mk1/openCVLibrary2.4.13.1" />
+    </modules>
+  </component>
+</project>

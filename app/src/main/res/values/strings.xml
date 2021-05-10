@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Digit Recognition mk1</string>
+    <string name="capture_your_receipt">Capture Your Image</string>
+    <string name="choose_receipt_from_gallery">Choose Image From Gallery</string>
+    <string name="crop">Crop</string>
+    <string name="capture_receipt">Capture Receipt Demo</string>
+    <string name="crop_receipt">Crop Receipt</string>
+    <string name="review_receipt">Review Receipt</string>
+    <string name="preview_area">Preview Area</string>
+    <string name="capture">Capture</string>
+</resources>
